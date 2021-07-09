@@ -7,9 +7,9 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&layout=compact)](#)
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&count_private=true "GitHub stats")](#)  
-## Streak
+<!-- ## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110)](#)
-
+ -->
 
 <!--
 **ledat2110/ledat2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
