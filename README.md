@@ -1,7 +1,7 @@
 # Tuan-Dat Le
 ## Basic info
 * Email: letuandat2110@gmail.com
-* LinkedIn: https://www.linkedin.com/in/ledat2110/
+* LinkedIn: [ledat2110](https://www.linkedin.com/in/ledat2110/)
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&count_private=true "GitHub stats")](#)  
 ## Most used languages
