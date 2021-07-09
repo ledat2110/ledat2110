@@ -6,7 +6,7 @@
 ## Most used languages
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&layout=compact)](#)
 ## Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110)](#)
 
 
 <!--
