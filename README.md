@@ -2,9 +2,9 @@
 ## Basic info
 * Email: letuandat2110@gmail.com
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&hide_border=true&count_private=true "GitHub stats")](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&count_private=true "GitHub stats")](#)  
 ## Most used languages
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&hide_border=true&layout=compact&hide=shell,python)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&layout=compact)](#)
 ## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
