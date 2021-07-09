@@ -2,7 +2,11 @@
 # Basic info
 * Email: letuandat2110@gmail.com
 
-![Tuan-Dat Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledat2110)
+## Stats 📈
+[![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&hide_border=true&theme=discord_old_blurple&count_private=true "GitHub stats")](#)  
+
+## Streak 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 <!--
 **ledat2110/ledat2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
