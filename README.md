@@ -1,15 +1,14 @@
 # Tuan-Dat Le
-# Basic info
+## Basic info
 * Email: letuandat2110@gmail.com
-
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=ledat2110&show_icons=true&hide_border=true&count_private=true "GitHub stats")](#)  
-
+## Most used languages
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&hide_border=true&layout=compact&hide=shell,python)](#)
 ## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledat2110&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
-## Most used languages
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledat2110&theme=discord_old_blurple&hide_border=true&layout=compact&hide=shell,python)](#)
+
 <!--
 **ledat2110/ledat2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
